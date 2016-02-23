@@ -1,3 +1,10 @@
+爬虫程序运行请参考PDF
+抓取豆瓣的大部分图书。
+A project for catch the book of 豆瓣website in china.
+please see the code source
+
+using python3.4
+
 本爬虫程序目录如下：
 ----book  抓取的图书详情页
   　----文学　　　 大分类
