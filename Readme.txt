@@ -5,6 +5,15 @@ please see the code source
 
 using python3.4
 
+# How to use?
+1.Install python3.4 or another python3 version
+2.Just install some python library if run was wrong
+3.run step1.py
+4.run step2.py
+5.and so on
+
+author:hunterhug
+
 本爬虫程序目录如下：
 ----book  抓取的图书详情页
   　----文学　　　 大分类
@@ -39,5 +48,3 @@ using python3.4
     ----booktag.xlsx　提取的图书标签页
 	
 ----tool  抓取工具
-----源码
-----pack 打包的所有东西，安装上面目录解压
